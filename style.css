@@ -1,0 +1,51 @@
+.derpies {
+	
+	font-family:georgia,garamond,serif;
+	font-size:x-large;
+	font-style:italic;
+}
+.derpinfo {
+	float:right;
+	font-family:georgia,garamond,serif;
+	font-size:large;
+	font-style:italic;
+	margin-left:25px;
+	display: table-cell;
+	align:right;
+
+}
+.derpieimg {
+	
+	width:30%;
+	height:30%;
+	
+}
+.slogan {
+
+	text-align:center;
+	font-size:x-large;
+	font-family:georgia,garamond,serif;
+	font-style:italic;
+}
+.title {
+	text-align:center;
+	font-size: xx-large;
+
+	
+	
+}
+.imgtitle {
+
+	
+	
+	
+}
+.imgbody {
+	float:left;
+	display: table-cell;
+	align:left;
+}
+.body {
+	display: table;
+	
+}
